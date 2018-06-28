@@ -1,0 +1,14 @@
+{
+  "name": "embark-fortune",
+  "version": "1.0.0",
+  "description": "Embark plugin to display a fortune quote after each build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuri Matias <iuri.matias@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fortune-tweetable": "1.0.0"
+  }
+}
